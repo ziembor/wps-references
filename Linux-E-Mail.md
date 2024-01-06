@@ -7,5 +7,6 @@
 
 
 ## Mail related distributions / add-ons
-* https://modoboa.org/en/ // https://github.com/modoboa/ (Debian based - also Ubuntu, POP or Kali)
-* https://www.iredmail.org/  
+* https://modoboa.org/en/ // https://github.com/modoboa/ (Debian based add-on - also Ubuntu, POP or Kali)
+* https://www.iredmail.org/  (add on for  CentOS Stream, Rocky, Alma, Debian, Ubuntu, FreeBSD, OpenBSD)
+
