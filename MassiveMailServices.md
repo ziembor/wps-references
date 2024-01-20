@@ -8,3 +8,6 @@
 * https://mailchimp.com/
 * https://aws.amazon.com/ses/
 * https://postmarkapp.com/why 
+* [Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/overview)
+  ** https://portal.azure.com/#create/Microsoft.EmailCommunicationServices
+  
