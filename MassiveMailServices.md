@@ -13,3 +13,4 @@
   ** https://portal.azure.com/#create/Microsoft.EmailCommunicationServices
   
 ## Testing services 
+* quality of mails: https://getmaildoso.com/ 
