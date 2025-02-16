@@ -1,5 +1,6 @@
 # Massive Mail Services
 
+## Providers
 * https://mailtrap.io/ "Mailtrap Email Delivery Platform is an end-to-end sending solution for businesses and individuals to Test, Send, and Control emails in one place. You can inspect and debug emails in staging with Email Testing. Then, send on production with our reliable Email Sending."
 * https://sendgrid.com/ "Send at scale with SendGrid’s industry leading 99% deliverability rate."
   ** https://docs.sendgrid.com/for-developers/sending-email/postfix 
@@ -11,3 +12,4 @@
 * [Azure Communication Services](https://learn.microsoft.com/en-us/azure/communication-services/overview)
   ** https://portal.azure.com/#create/Microsoft.EmailCommunicationServices
   
+## Testing services 
